@@ -1,7 +1,3 @@
----
-layout: default
----
-
 test3
 
 ## Anomaly Detection
