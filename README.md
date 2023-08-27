@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Anomaly Detection
 test
 
