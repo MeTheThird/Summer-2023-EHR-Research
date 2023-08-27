@@ -2,9 +2,7 @@
 layout: default
 ---
 
-test3
-
-# Anomaly Detection
+## Anomaly Detection
 test
 
 ## test2
