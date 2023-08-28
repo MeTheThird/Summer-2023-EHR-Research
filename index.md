@@ -16,7 +16,7 @@ I then noticed that our models using past information performed either worse or 
 
 Finally, I noticed that when a given model exhibited improved performance on one of the diagnosis/medication tasks, it would usually exhibit poor performance on the other task. My preliminary experiments indicated that learning both tasks simultaneously generally improves performance relative to exclusively learning one task, so one future direction is to explore disentangled learning, which is a technique that would allow for slightly greater—but not complete—separation between the two tasks. Another future direction is to further explore using the hierarchical nature of diagnosis/medication medical classifications to improve our models’ learned embeddings—my preliminary experiments indicated a decrease in performance when adding this into our models, but this hierarchical information could potentially be useful if incorporated differently.
 
-## Reflections and Thanks
+## Reflections
 
 Overall, through this summer, I learned how to design, build, train, and evaluate AI models; I also learned how to effectively present my research through several presentations I delivered to my PI and to our Yale School of Public Health collaborators. Moreover, I gained a broader exposure to CS research and learned how to build upon other people’s research by reading many CS papers throughout the summer and discussing their relevance to our project with my mentor. I’m excited to share our research with the world through publishing our work on anomaly detection in the future!
 
